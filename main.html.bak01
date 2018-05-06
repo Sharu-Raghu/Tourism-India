@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+	<title>Tourism India</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700,600' rel='stylesheet' type		 			                'text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="wrapper">	
+  <div id="top>
+    	<div id="logo">
+	  <p>&nbsp;</p>
+	  <p><img src="images/banner/India.jpg" width="303" height="100" alt="logo"></p>
+	</div>
+    
+    <div id="topnav">
+    	<ul>
+        	<li><a href="#">Welcome</a></li>
+            <li><a href="#">Monuments</a></li>
+            <li><a href="#">Hills Stations</a></li>
+            <li><a href="#">Beaches</a></li>
+            <li><a href="#">Contact us</a></li> 
+        </ul>
+</div>
+    
+    <div id="banner">
+    	<img src="images/banner/Golden gate.jpg" width="850" height="315" alt="goldenGate">
+    </div>
+    
+    <div id="content-wrapper">
+		<div id="content">
+		  <h1>Welcome to India</h1>
+            <p>Tourism in India is a large industry. India's rich history and its cultural and geographical diversity make its 	               international tourism appeal large and diverse.</p>
+            <p> It presents a rich heritage and cultural tourism along with medical, business and sports tourism. </p>
+            <h2>Nature Tourism:</h2>
+            <p>India has geographical diversity, which resulted in varieties of nature tourism.</p>
+            
+          <div id="box1">	
+		    <h2>Wildlife in India</h2>
+            <img class="img-left" src="images/pictures/Tiger_in_Ranthambhore.jpg" width="300" height="200" alt="tiger">
+  			<p> India is home to several well-known large mammals including the Asian Elephant, Bengal Tiger, 
+                Asiatic Lion, Leopard and Indian Rhinoceros, often engrained culturally and religiously often
+                being associated with deities.Some other well-known large Indian mammals are ungulates such as 
+            the domestic Asian Water buffalo, wild Asian Water buffalo, Nilgai, Gaur and several species 
+                of deer and antelope. It is also home to the Striped Hyaena, Macaques, Langurs and
+   		    Mongoose species. India also has a large variety of protected wildlife. </p>
+		  </div>
+           	<h2> Adventure tourism </h2>
+            <img class="img-right" src="images/pictures/gulmargAdventure.jpg" width="300" height="200" alt="sports">
+      		<p> Due to its diverse geography and a myriad of cultures, coupled with the popularity of adventure
+            sports adventure tourism in India has become quite popular. Backpacking, or light travel, is a 
+            popular way to explore India. Many of those who have previously visit will describe the visit as 
+            not having been a holiday but an adventure</p>
+            			<ul>
+                        	<li>River rafting and kayaking in Himalayas</li>
+							<li>Mountain climbing in Himalayas</li>
+							<li>Rock climbing in Madhya Pradesh</li>
+							<li>Skiing in Auli and Gulmarg</li>
+							<li>Boat racing in Bhopal</li>
+							<li>Paragliding in Maharashtra</li>
+                        </ul>
+ 		</div>
+<div id="rightside">
+   	  <h2>Lakes in India:</h2> 
+            <img src="images/pictures/Ledak lake.jpg" width="220" height="148" alt="lake">	
+        	<p> 
+   	  <ul>
+                	<li> Avalanche Lake</li>
+                    <li> Dal Lake</li>
+					<li> Emerald Lake</li>
+                    <li>Chandra Taal</li>
+                    <li>Nainital Lake</li>
+                    <li>Sheshnag Lake</li>
+                    <li>Suraj Tal</li>
+                    <li>Tso Moriri</li>
+					<li>Tsongmo Lake</li>
+	  </ul>
+      </div>   
+        <div id="footer">
+        	<p>&copy;Copyright 2013 | All rights Reserved | India </p>
+        </div>
+    
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+/* CSS Document */
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+`
+*/
+
+
+h1 { color:#000;	}
+
+
+
+body		{	background-image:url(../images/bg/orange1.jpg);
+					background-repeat:repeat;
+				font-family:Arial, Helvetica, sans-serif; 
+				}
+
+h1, h2, h3	{ font-family:'Open Sans Condensed', Arial, Helvetica, sans-serif; }
+
+#wrapper 	{ width:900px; margin:10px auto;
+				background-color:#fff;
+				padding: 0 40px;	}
+					
+#top 		{  		}
+#logo		{ float:left; 
+				margin:50px 0;	}
+
+#topnav 	{ clear:both; 	}
+#topnav ul	{ padding: 15px	0; 
+				margin:0;	
+				border-top:1px #000 dotted;		}
+				 
+#topnav ul li	{	display:inline;
+					 list-style-type:none;	
+					 margin:0 40px 0 0;	}
+#topnav a:link		{ font-weight:bold; text-decoration:none; text-transform:uppercase; color:#000;		}
+#topnav a:visited	{  font-weight:bold; text-decoration:none; text-transform:uppercase; color:#000;	}
+#topnav a:active	{ font-weight:bold; text-decoration:none; text-transform:uppercase; color:#000;		}
+#topnav a:hover		{  font-weight:bold; text-decoration:none; text-transform:uppercase; color:#F90;	}
+#topnav a:focus		{  font-weight:bold; text-decoration:none; text-transform:uppercase; color:#F90;	}
+					 
+#content 		{	float:left; width:580px;	}
+#content h2		{	color:#6C0;	}
+#content p ul li 	{ font-size:12px; line-height:180%;				}
+
+.img-left		{	float:left; padding:20px 25px 25px 0px;	}
+			
+.img-right		{	float:right; padding:20px 0 0px 25px; 	}
+
+#rightside		{	 float:right; width:270px	}
+#rightside h2	{	color:#6C0;	}
+#rightside p ul li	{ font-size:12px; line-height:180%;				}
+
+#footer			{ clear:both; padding:10px	0;
+					border-top: 1px #000 dotted;
+						}
+#footer p		{ text-align:center; font-size:14px; font-weight:bold;	}
+
+ #fright 	{ }
+
+
+					

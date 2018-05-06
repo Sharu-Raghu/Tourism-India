@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Tourism India</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="screen">
+	<script src="../jscript/changecss.js" type="text/javascript" ></script>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700,600' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="../engine1/style.css" media="screen" />
+	<script type="text/javascript" src="../engine1/jquery.js"></script>
+    
+<!-- End WOWSlider.com HEAD section -->
+ 
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="wrapper">	
+  <div id="top">
+    	<div id="logo">
+	  <p>&nbsp;</p>
+	  <p><img src="../images/banner/India.jpg" width="303" height="100" alt="logo"></p>
+</div>
+    
+    <div id="topnav">
+    	<ul>
+        	<li><a href="../index.html">Welcome</a></li>
+            <li><a href="../monuments.html">Monuments</a></li>
+            <li><a href="../hillstation.html">Hills Stations</a></li>
+            <li><a href="../beaches.html">Beaches</a></li>
+            <li><a href="../contact.html">Contact us</a></li> 
+        </ul>
+</div>
+    
+    
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+<li><img src="../data1/images/forest.jpg" alt="Forest" title="Forest" id="wows1_0"/></li>
+<li><img src="../data1/images/goa_beach.jpg" alt="Goa Beach" title="Goa Beach" id="wows1_1"/></li>
+<li><img src="../data1/images/golden_gate.jpg" alt="Golden Gate" title="Golden Gate" id="wows1_2"/></li>
+<li><img src="../data1/images/hill_station_banner.jpg" alt="Nainital" title="Nainital" id="wows1_3"/></li>
+<li><img src="../data1/images/himacal_pradesh.jpg" alt="Himacal Pradesh" title="Himacal Pradesh" id="wows1_4"/></li>
+<li><img src="../data1/images/jammubanner2.jpg" alt="Jammu" title="Jammu" id="wows1_5"/></li>
+<li><img src="../data1/images/munnar_hillstation_kerala.jpg" alt="Munnar" title="Munnar" id="wows1_6"/></li>
+<li><img src="../data1/images/mussoorie_india.jpg" alt="Mussoorie" title="Mussoorie" id="wows1_7"/></li>
+<li><img src="../data1/images/south_india.jpg" alt="south india" title="south india" id="wows1_8"/></li>
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="#" title="Forest"><img src="../data1/tooltips/forest.jpg" alt="Forest"/>1</a>
+<a href="#" title="Goa Beach"><img src="../data1/tooltips/goa_beach.jpg" alt="Goa Beach"/>2</a>
+<a href="#" title="Golden Gate"><img src="../data1/tooltips/golden_gate.jpg" alt="Golden Gate"/>3</a>
+<a href="#" title="Nainital"><img src="../data1/tooltips/hill_station_banner.jpg" alt="Nainital"/>4</a>
+<a href="#" title="Himacal Pradesh"><img src="../data1/tooltips/himacal_pradesh.jpg" alt="Himacal Pradesh"/>5</a>
+<a href="#" title="Jammu"><img src="../data1/tooltips/jammubanner2.jpg" alt="Jammu"/>6</a>
+<a href="#" title="Munnar"><img src="../data1/tooltips/munnar_hillstation_kerala.jpg" alt="Munnar"/>7</a>
+<a href="#" title="Mussoorie"><img src="../data1/tooltips/mussoorie_india.jpg" alt="Mussoorie"/>8</a>
+<a href="#" title="south india"><img src="../data1/tooltips/south_india.jpg" alt="south india"/>9</a>
+</div></div>
+<a class="wsl" href="http://wowslider.com">Menu Slider jQuery by WOWSlider.com v3.4</a>
+	<a href="#" class="ws_frame"></a>
+	<div class="ws_shadow"></div>
+	</div>
+<script type="text/javascript" src="../engine1/wowslider.js"></script>
+<script type="text/javascript" src="../engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<div id="banner">
+
+
+    
+    <div id="content-wrapper">
+	<div id="content">
+    <!-- TemplateBeginEditable name="content" -->
+		  <h1>Welcome to India</h1>
+            <p>Tourism in India is a large industry. India's rich history and its cultural and geographical diversity make its 	               international tourism appeal large and diverse.</p>
+            <p> It presents a rich heritage and cultural tourism along with medical, business and sports tourism. </p>
+            <h2>Nature Tourism:</h2>
+            <p>India has geographical diversity, which resulted in varieties of nature tourism.</p>
+            
+          <div id="box1">	
+		    <h2>Wildlife in India</h2>
+            <img class="img-left" src="../images/pictures/Tiger_in_Ranthambhore.jpg" width="300" height="200" alt="tiger">
+  			<p> India is home to several well-known large mammals including the Asian Elephant, Bengal Tiger, 
+                Asiatic Lion, Leopard and Indian Rhinoceros, often engrained culturally and religiously often
+                being associated with deities.Some other well-known large Indian mammals are ungulates such as 
+            the domestic Asian Water buffalo, wild Asian Water buffalo, Nilgai, Gaur and several species 
+                of deer and antelope. It is also home to the Striped Hyaena, Macaques, Langurs and
+   		    Mongoose species. India also has a large variety of protected wildlife. </p>
+		  </div>
+           	<h2> Adventure tourism </h2>
+ 			 <img class="img-right" src="../images/pictures/gulmargAdventure.jpg" width="300" height="200" alt="sports">
+      		<p> Due to its diverse geography and a myriad of cultures, coupled with the popularity of adventure
+            sports adventure tourism in India has become quite popular. Backpacking, or light travel, is a 
+            popular way to explore India. Many of those who have previously visit will describe the visit as 
+            not having been a holiday but an adventure</p>
+            			<ul>
+                        	<li>River rafting and kayaking in Himalayas</li>
+							<li>Mountain climbing in Himalayas</li>
+							<li>Rock climbing in Madhya Pradesh</li>
+							<li>Skiing in Auli and Gulmarg</li>
+							<li>Boat racing in Bhopal</li>
+							<li>Paragliding in Maharashtra</li>
+                        </ul>
+ 		
+        <!-- TemplateEndEditable -->
+        
+        </div>
+      </div>  
+<div id="rightside">
+			
+           <p>&nbsp;</p>
+           <p><img src="../images/pictures/Republic of India.jpg" width="300" height="450" alt="india">
+           </p>
+			<p>&nbsp;</p>
+     <h3>Related links</h3>
+     <p>  <a href="http://www.incredibleindia.org/"> Incredible India</a><p>
+     <p>  <a href="http://www.youtube.com/watch?v=Z0fgvH9Jrr0">Incredible India tour</a>
+     
+      </div>   
+        <div id="footer">
+        	<p>&copy;Copyright 2013 | All rights Reserved | India </p>
+        </div>
+        <div class="fright">
+                <a href="#" onclick="changeStyle('style.css')">STYLE 1</a>
+                <a href="#" onclick="changeStyle('style2.css')">STYLE 2</a>
+			</div>
+
+</div>
+</body>
+</html>
